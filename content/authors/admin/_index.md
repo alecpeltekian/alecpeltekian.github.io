@@ -1,37 +1,36 @@
 ---
 # Display name
-title: 吳健雄
+title: Alec Peltekian
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alec
+last_name: Peltekian
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📚
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Artificial Intelligence PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Northwestern University
+    url: https://www.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence and medicine.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medicine
 
 # Education to show in About widget
 education:
@@ -120,5 +119,11 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Alec and I am second year Computer Science PhD student at Northwestern University, working under Professor Alok Choudhary, Alexander Misharin, and Professor Ankit Agrawal.
+
+My research involves integrating AI in the field of medical science. I am transforming patient care through AI-driven methodologies, focusing on predicting disease onset and tailoring response strategies for personalized treatment. My work is particularly significant in managing patients with Systemic Sclerosis-Interstitial Lung Disease (SSc-ILD) and critical decisions surrounding extubation in intensive care units.
+
+My research also extends into materials science. I am developing advanced AI algorithms for materials discovery, with a special emphasis on identifying the most effective catalysts in chemical reactions. My approach is unique in its commitment to reducing computational complexity, accelerating the discovery process and preventing the need for prolonged experimental procedures.
+
+During my free time, I enjoy golfing, tennis, cooking, and dancing.
 {style="text-align: justify;"}
